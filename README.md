@@ -58,4 +58,4 @@
 - Implement strong authentication mechanisms and input validation in web applications.
 - Conduct regular security assessments and penetration testing to identify and mitigate vulnerabilities.
 
-<h1>Conclusion</h1>: The penetration test revealed significant vulnerabilities within the target system, including authentication bypass, command injection, and privilege escalation. It is imperative that appropriate remediation measures are taken to secure the system and prevent potential exploitation by malicious actors.
+<h1>Conclusion:</h1> The penetration test revealed significant vulnerabilities within the target system, including authentication bypass, command injection, and privilege escalation. It is imperative that appropriate remediation measures are taken to secure the system and prevent potential exploitation by malicious actors.
